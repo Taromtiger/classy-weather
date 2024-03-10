@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taromtiger.github.io/classy-weather/static/css/main.0d8928c7.css",
+    "main.js": "/taromtiger.github.io/classy-weather/static/js/main.bac55075.js",
+    "index.html": "/taromtiger.github.io/classy-weather/index.html",
+    "main.0d8928c7.css.map": "/taromtiger.github.io/classy-weather/static/css/main.0d8928c7.css.map",
+    "main.bac55075.js.map": "/taromtiger.github.io/classy-weather/static/js/main.bac55075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8928c7.css",
+    "static/js/main.bac55075.js"
+  ]
+}
